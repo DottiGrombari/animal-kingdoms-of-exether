@@ -1,0 +1,125 @@
+beaver_female_1 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "beaver_female_1_entity" }
+    }
+
+beaver_female_10 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "beaver_female_10_entity" }
+    }
+
+beaver_female_3 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "beaver_female_3_entity" }
+    }
+
+beaver_female_4 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "beaver_female_4_entity" }
+    }
+
+beaver_female_5 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "beaver_female_5_entity" }
+    }
+
+beaver_female_6 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "beaver_female_6_entity" }
+    }
+
+BEAVER_FEMALE_7 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "BEAVER_FEMALE_7_entity" }
+    }
+
+beaver_female_8 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "beaver_female_8_entity" }
+    }
+
+female_beaver_9 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "female_beaver_9_entity" }
+    }
+
+beaver_male_1 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "beaver_male_1_entity" }
+    }
+
+beaver_male_10 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "beaver_male_10_entity" }
+    }
+
+beaver_male_11 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "beaver_male_11_entity" }
+    }
+
+beaver_male_12 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "beaver_male_12_entity" }
+    }
+
+beaver_male_13 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "beaver_male_13_entity" }
+    }
+
+beaver_male_14 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "beaver_male_14_entity" }
+    }
+
+beaver_male_15 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "beaver_male_15_entity" }
+    }
+
+beaver_male_16 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "beaver_male_16_entity" }
+    }
+
+beaver_male_2 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "beaver_male_2_entity" }
+    }
+
+beaver_male_3 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "beaver_male_3_entity" }
+    }
+
+beaver_male_4 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "beaver_male_4_entity" }
+    }
+
+beaver_male_5 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "beaver_male_5_entity" }
+    }
+
+beaver_male_6 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "beaver_male_6_entity" }
+    }
+
+beaver_male_7 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "beaver_male_7_entity" }
+    }
+
+beaver_male_8 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "beaver_male_8_entity" }
+    }
+
+beaver_male_9 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "beaver_male_9_entity" }
+    }
+

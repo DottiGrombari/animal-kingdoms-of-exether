@@ -1,0 +1,125 @@
+donkey_female_1 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "donkey_female_1_entity" }
+    }
+
+donkey_female_2 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "donkey_female_2_entity" }
+    }
+
+donkey_female_3 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "donkey_female_3_entity" }
+    }
+
+donkey_female_4 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "donkey_female_4_entity" }
+    }
+
+donkey_female_5 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "donkey_female_5_entity" }
+    }
+
+donkey_female_6 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "donkey_female_6_entity" }
+    }
+
+donkey_female_7 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "donkey_female_7_entity" }
+    }
+
+donkey_female_8 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "donkey_female_8_entity" }
+    }
+
+donkey_female_9 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "donkey_female_9_entity" }
+    }
+
+donkey_male_1 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "donkey_male_1_entity" }
+    }
+
+donkey_male_10 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "donkey_male_10_entity" }
+    }
+
+donkey_male_11 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "donkey_male_11_entity" }
+    }
+
+donkey_male_12 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "donkey_male_12_entity" }
+    }
+
+donkey_male_13 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "donkey_male_13_entity" }
+    }
+
+donkey_male_14 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "donkey_male_14_entity" }
+    }
+
+donkey_male_16 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "donkey_male_16_entity" }
+    }
+
+donkey_male_17 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "donkey_male_17_entity" }
+    }
+
+donkey_male_18 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "donkey_male_18_entity" }
+    }
+
+donkey_male_19 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "donkey_male_19_entity" }
+    }
+
+donkey_male_2 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "donkey_male_2_entity" }
+    }
+
+donkey_male_3 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "donkey_male_3_entity" }
+    }
+
+donkey_male_4 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "donkey_male_4_entity" }
+    }
+
+donkey_male_5 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "donkey_male_5_entity" }
+    }
+
+donkey_male_6 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "donkey_male_6_entity" }
+    }
+
+donkey_male_9 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "donkey_male_9_entity" }
+    }
+

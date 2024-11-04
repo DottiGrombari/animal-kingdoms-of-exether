@@ -1,0 +1,103 @@
+pdxmesh = {
+        name = "beaver_female_1_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Beaver/beaver_female_1.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "beaver_female_1_entity"
+        pdxmesh = "beaver_female_1_mesh"
+    }
+
+    pdxmesh = {
+        name = "beaver_female_2_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Beaver/beaver_female_2.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "beaver_female_2_entity"
+        pdxmesh = "beaver_female_2_mesh"
+    }
+
+    pdxmesh = {
+        name = "beaver_female_4_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Beaver/beaver_female_4.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "beaver_female_4_entity"
+        pdxmesh = "beaver_female_4_mesh"
+    }
+
+    pdxmesh = {
+        name = "beaver_female_5_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Beaver/beaver_female_5.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "beaver_female_5_entity"
+        pdxmesh = "beaver_female_5_mesh"
+    }
+
+    pdxmesh = {
+        name = "beaver_male_16_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Beaver/beaver_male_16.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "beaver_male_16_entity"
+        pdxmesh = "beaver_male_16_mesh"
+    }
+
+    pdxmesh = {
+        name = "female_beaver_9_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Beaver/female_beaver_9.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "female_beaver_9_entity"
+        pdxmesh = "female_beaver_9_mesh"
+    }
+
+    

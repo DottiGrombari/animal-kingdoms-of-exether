@@ -1,0 +1,426 @@
+pdxmesh = {
+        name = "donkey_female_1_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Donkey/female/donkey_female_1.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "donkey_female_1_entity"
+        pdxmesh = "donkey_female_1_mesh"
+    }
+
+    pdxmesh = {
+        name = "donkey_female_2_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Donkey/female/donkey_female_2.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "donkey_female_2_entity"
+        pdxmesh = "donkey_female_2_mesh"
+    }
+
+    pdxmesh = {
+        name = "donkey_female_3_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Donkey/female/donkey_female_3.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "donkey_female_3_entity"
+        pdxmesh = "donkey_female_3_mesh"
+    }
+
+    pdxmesh = {
+        name = "donkey_female_4_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Donkey/female/donkey_female_4.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "donkey_female_4_entity"
+        pdxmesh = "donkey_female_4_mesh"
+    }
+
+    pdxmesh = {
+        name = "donkey_female_5_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Donkey/female/donkey_female_5.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "donkey_female_5_entity"
+        pdxmesh = "donkey_female_5_mesh"
+    }
+
+    pdxmesh = {
+        name = "donkey_female_6_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Donkey/female/donkey_female_6.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "donkey_female_6_entity"
+        pdxmesh = "donkey_female_6_mesh"
+    }
+
+    pdxmesh = {
+        name = "donkey_female_7_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Donkey/female/donkey_female_7.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "donkey_female_7_entity"
+        pdxmesh = "donkey_female_7_mesh"
+    }
+
+    pdxmesh = {
+        name = "donkey_female_8_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Donkey/female/donkey_female_8.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "donkey_female_8_entity"
+        pdxmesh = "donkey_female_8_mesh"
+    }
+
+    pdxmesh = {
+        name = "donkey_female_9_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Donkey/female/donkey_female_9.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "donkey_female_9_entity"
+        pdxmesh = "donkey_female_9_mesh"
+    }
+
+    pdxmesh = {
+        name = "donkey_male_1_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Donkey/Male/donkey_male_1.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "donkey_male_1_entity"
+        pdxmesh = "donkey_male_1_mesh"
+    }
+
+    pdxmesh = {
+        name = "donkey_male_10_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Donkey/Male/donkey_male_10.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "donkey_male_10_entity"
+        pdxmesh = "donkey_male_10_mesh"
+    }
+
+    pdxmesh = {
+        name = "donkey_male_11_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Donkey/Male/donkey_male_11.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "donkey_male_11_entity"
+        pdxmesh = "donkey_male_11_mesh"
+    }
+
+    pdxmesh = {
+        name = "donkey_male_12_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Donkey/Male/donkey_male_12.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "donkey_male_12_entity"
+        pdxmesh = "donkey_male_12_mesh"
+    }
+
+    pdxmesh = {
+        name = "donkey_male_13_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Donkey/Male/donkey_male_13.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "donkey_male_13_entity"
+        pdxmesh = "donkey_male_13_mesh"
+    }
+
+    pdxmesh = {
+        name = "donkey_male_14_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Donkey/Male/donkey_male_14.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "donkey_male_14_entity"
+        pdxmesh = "donkey_male_14_mesh"
+    }
+
+    pdxmesh = {
+        name = "donkey_male_16_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Donkey/Male/donkey_male_16.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "donkey_male_16_entity"
+        pdxmesh = "donkey_male_16_mesh"
+    }
+
+    pdxmesh = {
+        name = "donkey_male_17_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Donkey/Male/donkey_male_17.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "donkey_male_17_entity"
+        pdxmesh = "donkey_male_17_mesh"
+    }
+
+    pdxmesh = {
+        name = "donkey_male_18_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Donkey/Male/donkey_male_18.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "donkey_male_18_entity"
+        pdxmesh = "donkey_male_18_mesh"
+    }
+
+    pdxmesh = {
+        name = "donkey_male_19_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Donkey/Male/donkey_male_19.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "donkey_male_19_entity"
+        pdxmesh = "donkey_male_19_mesh"
+    }
+
+    pdxmesh = {
+        name = "donkey_male_2_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Donkey/Male/donkey_male_2.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "donkey_male_2_entity"
+        pdxmesh = "donkey_male_2_mesh"
+    }
+
+    pdxmesh = {
+        name = "donkey_male_3_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Donkey/Male/donkey_male_3.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "donkey_male_3_entity"
+        pdxmesh = "donkey_male_3_mesh"
+    }
+
+    pdxmesh = {
+        name = "donkey_male_4_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Donkey/Male/donkey_male_4.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "donkey_male_4_entity"
+        pdxmesh = "donkey_male_4_mesh"
+    }
+
+    pdxmesh = {
+        name = "donkey_male_5_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Donkey/Male/donkey_male_5.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "donkey_male_5_entity"
+        pdxmesh = "donkey_male_5_mesh"
+    }
+
+    pdxmesh = {
+        name = "donkey_male_6_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Donkey/Male/donkey_male_6.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "donkey_male_6_entity"
+        pdxmesh = "donkey_male_6_mesh"
+    }
+
+    pdxmesh = {
+        name = "donkey_male_9_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Donkey/Male/donkey_male_9.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/body.shader"
+        }
+    }
+    entity = {
+        name = "donkey_male_9_entity"
+        pdxmesh = "donkey_male_9_mesh"
+    }
+
+    

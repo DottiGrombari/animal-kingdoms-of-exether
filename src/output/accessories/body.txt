@@ -1,0 +1,30 @@
+beaver_female_1 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "beaver_female_1_entity" }
+    }
+
+beaver_female_2 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "beaver_female_2_entity" }
+    }
+
+beaver_female_4 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "beaver_female_4_entity" }
+    }
+
+beaver_female_5 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "beaver_female_5_entity" }
+    }
+
+beaver_male_16 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "beaver_male_16_entity" }
+    }
+
+female_beaver_9 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "female_beaver_9_entity" }
+    }
+

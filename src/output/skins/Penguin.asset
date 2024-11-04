@@ -322,6 +322,23 @@ pdxmesh = {
     }
 
     pdxmesh = {
+        name = "penguin_male_19_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Penguin/male/penguin_male_19.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/Penguin.shader"
+        }
+    }
+    entity = {
+        name = "penguin_male_19_entity"
+        pdxmesh = "penguin_male_19_mesh"
+    }
+
+    pdxmesh = {
         name = "penguin_male_2_mesh"
         file = "hm_prophet.mesh"
         scale = 1.6
@@ -336,6 +353,40 @@ pdxmesh = {
     entity = {
         name = "penguin_male_2_entity"
         pdxmesh = "penguin_male_2_mesh"
+    }
+
+    pdxmesh = {
+        name = "penguin_male_20_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Penguin/male/penguin_male_20.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/Penguin.shader"
+        }
+    }
+    entity = {
+        name = "penguin_male_20_entity"
+        pdxmesh = "penguin_male_20_mesh"
+    }
+
+    pdxmesh = {
+        name = "penguin_male_21_mesh"
+        file = "hm_prophet.mesh"
+        scale = 1.6
+        meshsettings = {
+            name = "prophet_shieldShape"
+            index = 0
+            texture_diffuse = "skins_textures/body/Penguin/male/penguin_male_21.dds"
+            shader = "portrait_attachment_alpha_to_coverage"
+            shader_file = "gfx/models/skins/Penguin.shader"
+        }
+    }
+    entity = {
+        name = "penguin_male_21_entity"
+        pdxmesh = "penguin_male_21_mesh"
     }
 
     pdxmesh = {

@@ -93,9 +93,24 @@ penguin_male_18 = {
         entity = { required_tags = "" shared_pose_entity = head entity = "penguin_male_18_entity" }
     }
 
+penguin_male_19 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "penguin_male_19_entity" }
+    }
+
 penguin_male_2 = {
         set_tags = "base_model"
         entity = { required_tags = "" shared_pose_entity = head entity = "penguin_male_2_entity" }
+    }
+
+penguin_male_20 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "penguin_male_20_entity" }
+    }
+
+penguin_male_21 = {
+        set_tags = "base_model"
+        entity = { required_tags = "" shared_pose_entity = head entity = "penguin_male_21_entity" }
     }
 
 penguin_male_3 = {

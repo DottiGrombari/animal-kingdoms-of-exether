@@ -1,4 +1,4 @@
-pdxmesh = {
+﻿pdxmesh = {
         name = "beaver_female_1_mesh"
         file = "hm_prophet.mesh"
         scale = 1.6

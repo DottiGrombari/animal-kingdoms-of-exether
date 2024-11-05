@@ -33,18 +33,12 @@
 		AND = {
 			exists = scope:pop
 			scope:pop = {
-				OR = {
-					has_culture = cu:vystemian
-					has_culture = cu:uplander
-					has_culture = cu:gelidrumin
-					has_culture = cu:avalorean
-					has_culture = cu:dewaric
-					has_culture = cu:vairian
-					has_culture = cu:thiralian
-					has_culture = cu:ralaurian
+				
+					
 					culture = {
 						OR = {
 							has_homeland = s:STATE_CROWNPEAK
+							has_homeland = s:STATE_RAQUARTES_SHIELD
 							has_discrimination_trait = bird_heritage
 							has_discrimination_trait = lizardfolk_heritage
 							has_discrimination_trait = mechanical_heritage
@@ -53,9 +47,34 @@
 							has_discrimination_trait = gnoll
 							has_discrimination_trait = naga
 							has_discrimination_trait = mouse_heritage
+							AND = {
+								has_discrimination_trait = noric_culture_group
+								has_homeland = s:STATE_KHANGYO
+							}
+							AND = {
+								has_discrimination_trait = noric_culture_group
+								has_homeland = s:STATE_HIGHPASS
+							}
+							AND = {
+								has_discrimination_trait = noric_culture_group
+								has_homeland = s:STATE_LAST_HEARTH
+							}
+							AND = {
+								has_discrimination_trait = noric_culture_group
+								has_homeland = s:STATE_SLUDGE_COAST
+							}
+							AND = {
+								has_discrimination_trait = noric_culture_group
+								has_homeland = s:STATE_GULFWATCH
+							}
+							AND = {
+								has_discrimination_trait = vairia_culture_group
+								has_homeland = s:STATE_MONTEGO
+							}
+							
 						}
 					}
-				}
+				
 			}
 		}
 	}

@@ -15,6 +15,7 @@
 					has_culture = cu:ralaurian
 					culture = {
 						OR = {
+							has_homeland = s:STATE_CROWNPEAK
 							has_discrimination_trait = bird_heritage
 							has_discrimination_trait = lizardfolk_heritage
 							has_discrimination_trait = mechanical_heritage
@@ -33,7 +34,6 @@
 			exists = scope:pop
 			scope:pop = {
 				OR = {
-					has_culture = cu:dumonian
 					has_culture = cu:vystemian
 					has_culture = cu:uplander
 					has_culture = cu:gelidrumin
@@ -44,6 +44,7 @@
 					has_culture = cu:ralaurian
 					culture = {
 						OR = {
+							has_homeland = s:STATE_CROWNPEAK
 							has_discrimination_trait = bird_heritage
 							has_discrimination_trait = lizardfolk_heritage
 							has_discrimination_trait = mechanical_heritage

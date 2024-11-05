@@ -244,7 +244,7 @@ vystemian={
 	}	
 	
 	ethnicities = {
-		1 = caucasian
+		1 = donkeyfolk
 	}
 	graphics = european
 }
@@ -394,7 +394,7 @@ gelidrumin={
 	}	
 	graphics = european
 	ethnicities = {
-		1 = caucasian
+		1 = donkeyfolk
 	}
 }
 
@@ -542,7 +542,7 @@ ralaurian={
 		Romhaar
 	}	
 	ethnicities = {
-		1 = caucasian_ginger
+		1 = donkeyfolk
 	}
 	graphics = european
 }
@@ -693,7 +693,7 @@ dewaric={
 
 	graphics = european
 	ethnicities = {
-		1 = caucasian
+		1 = donkeyfolk
 	}
 }
 
@@ -843,7 +843,7 @@ uplander={
 
 	graphics = european
 	ethnicities = {
-		1 = caucasian_dark_hair
+		1 = donkeyfolk
 	}
 }
 
@@ -993,9 +993,289 @@ avalorean={
 	}	
 	
 	ethnicities = {
-		1 = caucasian
+		1 = donkeyfolk
 	}
 	graphics = caucasian_blond
+}
+
+thiralian={
+	color= hsv{ 0.62 0.54 0.72 }
+	religion = rose_court
+	traits = { east_zalar_culture_group human_heritage }
+	obsessions = {
+		luxury_clothes
+	}
+	male_common_first_names={
+		Amos Anatole Aaron Augustin Achille
+        Baptiste Bernard Bolivar Blaise Baudouin Branford Barnabe Benjamin
+        Charles Clayton Claude Clement Conrad Christophe Constant
+        Domenic Dudley David Daniel 
+        Eraste Eugene Earl Edwin Ernoul Emmanuel Etienne
+        Felix Frederic Ferdinand Fortunat
+        Gustave Gilbert Gabriel Girard
+        Henri Herbert Hollis Hardin Hippolyte Hilaire
+        Ignace
+        Jean Jean-Baptiste Joachim Justin
+        Louis Leon Louis-Auguste Luc Lazare Laurent Lionel
+        Marius Marc Michel
+        Napoleon Nazaire Norbert
+        Olivier Omer
+        Paul Pierre Pelerin Polycarp
+        Raphael Rodrigue
+        Sylvain 
+        Thomas Theophile
+        Ursin Ulysse Urbain
+        Victor Virgil
+        Xaxier
+	}
+	female_common_first_names = {
+		Anne Ada Agnes Amelie Angelique Alice
+        Blandine Berenice Brigitte Barbara
+        Catherine Cecile Constance Christine Claudette Carmen Charlotte
+        Drusilla Debora
+        Eulalie Evangeline Eurydice
+        Flavie Florastine
+        Gabrielle Georgette Georgie
+        Honorine Hazel
+        Jacqueline Jeanne Justine
+        Leopauline Louise
+        Melanie Modeste Miriam Marie
+        Nicole
+        Ophelia Odette Olive
+        Pelagie Prudence
+        Regine Rita Rosette Rose
+        Sylvie Seraphine Severine Sophie Sabine
+        Theodorine
+        Ursuline
+        Virginie
+        Yolande
+	}	
+	noble_last_names = {
+		Bedard
+		Bellemare
+		Cartier
+		David
+		Papineau
+		Surrette
+	}
+	common_last_names={
+		Arceneaux Aucoin Anzelmo Authement
+        Bertinot Bertus Bordelon Brister Broussard Bellocq
+        Chachere Chenier de_Clouet Coupar Creaux Cailloux Couvillon
+        DeBuys Dede Delaroderie Delhomme Delouche Deshotel Dorgenois Doucet Delaup Dessommes
+        Estilette dEnvrich
+        Fontenot Freret Fuglaar Flambeau
+        Gerois Girod Gisclair Goff Guilbeaux Guyote Grenouille Guillory Guidry Guillotte Glapion 
+        Hebert
+        Istre
+        Jeanlouis Jearnmard Jumonville
+        Lambert Landry Larcade Larriviere Latiolais Lavergne LeBlance Lemelle Lafitte
+        Montoucet de_Macarty Marchand Martinet Montegut Mouton Metoyer Morial
+        Nicaud Nagin
+        Pavy Perrault Pinac Pitot Prieur Peltier Paillard Permillion
+        Rabon de_Reggio Rilleux Ritchie Roffignac Roman Roudanez Rozier Robideaux Rosembraise Rillieux
+        Savoie Schexnayder Sibille Simien Simoneaux Sarebresole Soule Sentell
+        Teekell Teurlings Trevigne Vercher de_Ville Vauquelin Verret Vandage
+        Vallencourt
+        Wende
+        Zeringue
+	}
+	graphics = european
+	ethnicities = {
+		1 = beaverfolk
+	}
+}
+
+vairian = {
+	color= hsv{ 0.52 0.51 0.75 }
+	religion = cult_of_the_sea
+	traits = { vairia_culture_group human_heritage }
+	obsessions = {
+		clippers
+	}
+	male_common_first_names={
+		Abel
+		Adriano
+		Afonso
+		Alberto
+		Alexandre
+		Alfredo
+		Andre
+		Antonio_2
+		Aquilino
+		Artur
+		Augusto
+		Bartolomeu
+		Bernardo
+		Bruno
+		Caetano
+		Carlos
+		Christovao
+		Claudio_2
+		Candido
+		Damiao
+		Daniel
+		David
+		Dinis
+		Diogo
+		Duarte
+		Ernesto
+		Estevao
+		Eugenio
+		Fernando
+		Filipe
+		Francisco
+		Francisco_Xavier
+		Gastao
+		Hermenegildo
+		Ignacio_2
+		Jeronimo
+		Joaquim
+		Jorge
+		Jose
+		Joao
+		Julio_2
+		Leopoldo
+		Luis_2
+		Manuel
+		Miguel
+		Mario_2
+		Nicolau
+		Nuno
+		Orlando
+		Pascoal
+		Paulo
+		Pedro
+		Rafael_2
+		Raul
+		Roberto
+		Rodrigo
+		Rui
+		Santiago
+		Sebastiao
+		Teodoro
+		Teofilo
+		Tiago
+		Tome
+		Urbano
+		Vasco
+		Vicente
+		Vitorino
+		Vitorio
+		Alvaro
+		Oscar_2
+	}
+	female_common_first_names = {
+		Adelgundes
+		Ana
+		Antonia_2
+		Avelina
+		Benedita
+		Bernardina
+		Carlota
+		Eulalia_2
+		Francisca
+		Gabriela
+		Isabel
+		Joana
+		Joaquina
+		Josefa
+		Leopoldina
+		Maria
+		Micaela
+		Rafaela
+		Rita
+		Rosa
+		Rosalia
+		Sofia
+		Teresa
+	}	
+	noble_last_names = {
+		Correia_de_Sa
+		Costa
+		da_Cunna
+		da_Silva_Pereira
+		de_Almada
+		de_Braganza
+		de_Braganca-Coburgo
+		Carballo
+		de_Caula
+		de_Oliveira
+		de_Queiros
+		de_Sousa
+		de_Sousa_Coutinno
+		de_Vasconcelos
+		dos_Anxos
+		Rangel
+		Rebelo
+		Vilela
+	}
+	common_last_names={
+		Amaral
+		Barreto
+		Bleck
+		Braga
+		Cabral
+		Capelo
+		Carmona
+		Coelho
+		Correia
+		Coutinho
+		Dias
+		Fernandes
+		Ferreira
+		Figueira
+		Freire_de_Andrade
+		Gago
+		Gil
+		Gomes
+		Herculano
+		Ivens
+		Keil
+		Lopes
+		Machado
+		Magalhaes
+		Mendes
+		Moniz
+		Mouzinho
+		Nogueira
+		Nunes
+		Ortigao
+		Pereira
+		Pinheiro
+		Pinto
+		Pires
+		Pomar
+		Pulido
+		Queiroz
+		Quintanilha
+		Ribeiro
+		Rodrigues
+		Salazar
+		Sampaio
+		Silveira
+		Sergio_2
+		Tavares
+		Teixeira
+		Vidigal
+		Vieira
+		da_Silva
+		de_Almeida
+		de_Arriaga
+		de_Castro
+		de_Gusmao
+		de_Lacerda
+		de_Mesquita
+		de_Moura
+		de_Noronha
+		de_Paiva
+		dos_Reis
+		dos_Santos
+	}
+	ethnicities = {
+		1 = penguinfolk
+	}
+	graphics = european
 }
 
 whiali = {

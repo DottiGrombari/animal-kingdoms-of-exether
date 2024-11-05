@@ -82,7 +82,6 @@
 	}
 	graphics = european
 	ethnicities = {
-		2 = south_american
-		1 = slavic_dark_hair
+		1 = beaverfolk
 	}
 }

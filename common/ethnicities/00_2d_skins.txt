@@ -1,0 +1,28 @@
+﻿donkeyfolk = {
+	template = "flat_template"
+
+	base_skins = {
+		1 = { name = gene_donkey_skin range = { 0.0 1.0 } }
+	}
+}
+beaverfolk = {
+	template = "flat_template"
+
+	base_skins = {
+		1 = { name = gene_beaver_skin range = { 0.0 1.0 } }
+	}
+}
+
+penguinfolk = {
+	template = "flat_template"
+
+	base_skins = {
+		1 = { name = gene_penguin_skin range = { 0.0 1.0 } }
+	}
+}
+
+
+
+
+
+

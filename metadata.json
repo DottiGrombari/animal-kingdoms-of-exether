@@ -1,0 +1,19 @@
+{
+  "name": "Animal Kingdoms of Exether",
+  "id": "",
+  "version": "1.0",
+  "supported_game_version": "1.7.*",
+  "short_description": "This is a submod for Realms of Exether that replaces some of the human portraits with animals.",
+  "tags": [],
+  "relationships": [],
+  "game_custom_data": {
+    "multiplayer_synchronized": true,
+    "replace_paths": [
+      "common/cultures/00_human.txt",
+      "common/cultures/00_thiralian.txt",
+      "common/cultures/00_vairian.txt",
+      "common/scripted_triggers/00_clothes_triggers.txt"
+      
+    ]
+  }
+}

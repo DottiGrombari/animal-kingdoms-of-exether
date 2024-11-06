@@ -15,7 +15,6 @@
 					has_culture = cu:ralaurian
 					culture = {
 						OR = {
-							has_homeland = s:STATE_CROWNPEAK
 							has_discrimination_trait = bird_heritage
 							has_discrimination_trait = lizardfolk_heritage
 							has_discrimination_trait = mechanical_heritage
@@ -33,47 +32,31 @@
 		AND = {
 			exists = scope:pop
 			scope:pop = {
-				
-					
-					culture = {
-						OR = {
-							has_homeland = s:STATE_CROWNPEAK
-							has_homeland = s:STATE_RAQUARTES_SHIELD
-							has_discrimination_trait = bird_heritage
-							has_discrimination_trait = lizardfolk_heritage
-							has_discrimination_trait = mechanical_heritage
-							has_discrimination_trait = dragon_heritage
-							has_discrimination_trait = beast
-							has_discrimination_trait = gnoll
-							has_discrimination_trait = naga
-							has_discrimination_trait = mouse_heritage
-							AND = {
-								has_discrimination_trait = noric_culture_group
-								has_homeland = s:STATE_KHANGYO
+
+					OR = {
+						has_pop_culture = dumonian
+						has_pop_culture = vystemian
+						has_pop_culture = uplander
+						has_pop_culture = gelidrumin
+						has_pop_culture = avalorean
+						has_pop_culture = dewaric
+						has_pop_culture = vairian
+						has_pop_culture = thiralian
+						has_pop_culture = ralaurian
+						culture = {
+							OR = {
+								has_discrimination_trait = bird_heritage
+								has_discrimination_trait = lizardfolk_heritage
+								has_discrimination_trait = mechanical_heritage
+								has_discrimination_trait = dragon_heritage
+								has_discrimination_trait = beast
+								has_discrimination_trait = gnoll
+								has_discrimination_trait = naga
+								has_discrimination_trait = mouse_heritage
 							}
-							AND = {
-								has_discrimination_trait = noric_culture_group
-								has_homeland = s:STATE_HIGHPASS
-							}
-							AND = {
-								has_discrimination_trait = noric_culture_group
-								has_homeland = s:STATE_LAST_HEARTH
-							}
-							AND = {
-								has_discrimination_trait = noric_culture_group
-								has_homeland = s:STATE_SLUDGE_COAST
-							}
-							AND = {
-								has_discrimination_trait = noric_culture_group
-								has_homeland = s:STATE_GULFWATCH
-							}
-							AND = {
-								has_discrimination_trait = vairia_culture_group
-								has_homeland = s:STATE_MONTEGO
-							}
-							
 						}
 					}
+
 				
 			}
 		}

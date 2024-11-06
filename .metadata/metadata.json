@@ -9,11 +9,11 @@
   "game_custom_data": {
     "multiplayer_synchronized": true,
     "replace_paths": [
-      "common/cultures/00_human",
-      "common/cultures/00_thiralian",
-      "common/cultures/00_vairian",
-      "common/scripted_triggers/00_clothes_triggers",
-      "common/genes/95_genes_portrait2d"
+      "common/cultures/00_human.txt",
+      "common/cultures/00_thiralian.txt",
+      "common/cultures/00_vairian.txt",
+      "common/scripted_triggers/00_clothes_triggers.txt",
+      "common/genes/95_genes_portrait2d.txt"
     ]
   }
 }
